@@ -5,15 +5,16 @@
 - 💬 Ask me about anything related to AIGC.
 - 📫 How to reach me: longli@zju.edu.cn
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/jianghuyihei/count.svg) visitor!
+
 ![](https://github-readme-stats.vercel.app/api?username=jianghuyihei&show_icons=true&theme=transparent)
 
 ### My Skill Set
-![](https://github-readme-activity-graph.cyclic.app/graph?username=jianghuyihei&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jianghuyihei&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### My Skill Set
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jianghuyihei&layout=compact&theme=tokyonight)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/jianghuyihei/count.svg) visitor!:kissing_heart::kissing_heart:
+
+
 
 
 
