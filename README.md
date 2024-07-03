@@ -18,8 +18,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/jianghuyihei/count
 ![](https://github.com/jianghuyihei/jianghuyihei/blob/output/github-contribution-grid-snake.svg)
 
 
-
-### My Skill Set
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jianghuyihei&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
